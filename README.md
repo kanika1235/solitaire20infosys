@@ -46,9 +46,7 @@ This project demonstrates a smart security system landing page designed for:
 
 ---
 
-## 📷 Project Screenshot
 
-![GateManager Screenshot](screenshot.png)
 
 ---
 
